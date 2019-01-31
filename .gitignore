@@ -2,3 +2,8 @@
 .idea/
 qrCode.png
 target/
+
+# Eclipse files
+/.classpath
+/.project
+/.settings/
